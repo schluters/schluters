@@ -1,4 +1,4 @@
-## Hey <img alt="Hi" src=".github/Hi.gif" width="30px" />,  I'm Herson Schluter — a WebDeveloper 👨‍💻
+## Hey <img alt="Hi" src=".github/Hi.gif" width="30px" />,  I'm Herson Schluter — a Developer III @grupoboticario
 
 [![linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/herson-schluter-3b664937/)](https://www.linkedin.com/in/herson-schluter-3b664937/)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5541998296635) 
@@ -6,8 +6,6 @@
 
 
 <img align="right" alt="Coding Cat" src=".github/coding.webp" />
-
-Developer III @GrupoBoticário
 
 🚀 Specializing in JavaScript and TypeScript for high-scale backend environments.
 🎓 Post-grad in Systems Architecture with a focus on Design Patterns.
