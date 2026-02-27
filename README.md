@@ -7,8 +7,8 @@
 
 <img align="right" alt="Coding Cat" src=".github/coding.webp" />
 
-🚀 Specializing in JavaScript and TypeScript for high-scale backend environments.
-🎓 Post-grad in Systems Architecture with a focus on Design Patterns.
-🛠️ Passionate about clean architecture, performance optimization, and scalable systems.
+- 🚀 Specializing in JavaScript and TypeScript for high-scale backend environments.
+- 🎓 Post-grad in Systems Architecture with a focus on Design Patterns.
+- 🛠️ Passionate about clean architecture, performance optimization, and scalable systems.
 
 I'm currently shaping the future of retail tech at Grupo Boticário. Feel free to explore my repositories or reach out on LinkedIn for a chat!
